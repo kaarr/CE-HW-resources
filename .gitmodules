@@ -1,0 +1,6 @@
+[submodule "CE-camera"]
+	path = CE-camera
+	url = git@github.com:kaarr/CE-camera.git
+[submodule "CE-inertial"]
+	path = CE-inertial
+	url = git@github.com:kaarr/CE-inertial.git
