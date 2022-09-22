@@ -4,3 +4,6 @@
 [submodule "CE-inertial"]
 	path = CE-inertial
 	url = git@github.com:kaarr/CE-inertial.git
+[submodule "u-blox-capture"]
+	path = u-blox-capture
+	url = https://github.com/AaltoML/u-blox-capture.git
